@@ -1,4 +1,4 @@
-# TASK MANAGEMENT API
+# HOSTEL MANAGEMENT API
 The hostel management API is a technical assessment for Hosty.
 
 
